@@ -3,5 +3,6 @@ Un videojuego en 3D desarrollado con la biblioteca Ursina en Python, que proporc
 
 Se rexomienda tener una version superior a 6 en pytohn.
 
-Nesesario instalar la dedependencia de ursina.
+Nesesario instalar la dedependencia de ursina:
+
 pip install ursina
